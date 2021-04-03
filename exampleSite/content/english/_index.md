@@ -4,8 +4,8 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Envisioning a Sustainable Ecosystem
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: We work closely with our clients to deliver  the best possible solutions
+    for their needs
   button:
     enable: true
     label: Discover Our Project
