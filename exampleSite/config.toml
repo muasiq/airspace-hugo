@@ -213,7 +213,7 @@ startLevel = 2
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Grit"
 description = "This is meta description"
 images = ["images/logo.png"]
 logo = "images/logo.png"
